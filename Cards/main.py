@@ -16,7 +16,7 @@ for f in figures:
     for c in colors:
         deck.addCardOnDeck(Card(f,c))
 
-
+print(deck)
 
 
 
