@@ -30,6 +30,9 @@
     <Compile Include="cardsatributes\Figure.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="CreateDB.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Deck.py">
       <SubType>Code</SubType>
     </Compile>
